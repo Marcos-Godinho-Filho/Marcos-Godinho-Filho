@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 | [📈 Github Profile Stats](https://github.com/Marcos-Godinho-Filho/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/Marcos-Godinho-Filho/github-readme-stats#top-languages-card) |
 | :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=Marcos-Godinho-Filho&show_icons=true&theme=aura" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Godinho-Filho&theme=aura&layout=compact" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=Marcos-Godinho-Filho&show_icons=true&theme=highcontrast" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Godinho-Filho&theme=highconstrast&layout=compact" /> |
 
 | [⚡️ Github Profile Streaks](https://github.com/DenverCoder1/github-readme-streak-stats#github-readme-streak-stats) | [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#github-profile-trophy)
 | :---: | :---: |
