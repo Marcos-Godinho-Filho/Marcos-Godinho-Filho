@@ -1,7 +1,7 @@
 ## Hi, I’m @Marcos-Godinho-Filho👋
 
 
-- 👀 I’m interested in science, cuture and games
+- 👀 I’m interested in science, culture and games
 - 🌱 I’m currently learning Computing on Technical High School of Campinas - COTUCA
 - 💞️ I’m looking to collaborate on help other students
 
