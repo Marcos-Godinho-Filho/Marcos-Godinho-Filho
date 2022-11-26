@@ -3,7 +3,6 @@
 
 - 👀 I’m interested in science, culture and games
 - 🌱 I’m currently learning Computing on Technical High School of Campinas - COTUCA
-- 💞️ I’m looking to collaborate on help other students
 
 <!---
 Marcos-Godinho-Filho/Marcos-Godinho-Filho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
