@@ -14,30 +14,29 @@ You can click the Preview link to take a look at your changes.
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Marcos-Godinho-Filho?label=Follow&style=social" height="22" title="Follow me"/>][github]
 [<img alt="Mail to Marcos" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="mcvsk.filho@gmail.com" />][email]
-[<img alt="Telegram Profile" src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&link=https://www.linkedin.com/in/Anaghirali" height="22" />][telegram] 
+[<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/marcos-godinho-filho-78b533256/" height="22" title="marcos-godinho-filho" />][linkedin] 
 
 [github]: https://github.com/Marcos-Godinho-Filho
 [email]: mailto:mcvsk.filho@gmail.com
-[telegram]:https://t.me/MarcosGFilho
+[linkedin]:https://www.linkedin.com/in/marcos-godinho-filho-78b533256/
 
 
-## Programming Languages and Tools 🚀
+## Languages 👾
 
 <div style="display: inline_block"> 
-  
-  <img align="center" alt="Marcos-VisualStudio" width="40" src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png">
-  <img align="center" alt="Marcos-VisualStudioCode" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
-  <img align="center" alt="Marcos-Brave" width="40" src="https://img.icons8.com/color/344/brave-web-browser.png">
-  <img align="center" alt="Marcos-IntelliJ" width="40" src="https://img.icons8.com/color/344/intellij-idea.png">
+
   <img align="center" alt="Marcos-HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-Js" width="40" src="https://img.icons8.com/color/240/000000/javascript.png">
-  <img align="center" alt="Marcos-Node" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
-  <img align="center" alt="Marcos-NPM" width="40" src="https://img.icons8.com/color/344/npm.png">
   <img align="center" alt="Marcos-Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Marcos-CSharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Marcos-Arduino" width="40" src="https://img.icons8.com/fluency/344/arduino.png">
  
+</div>
+
+## Tools 🔧
+
+<div style="display: inline_block"> 
+  <img align="center" alt="Marcos-Node" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </div>
 
 ##
