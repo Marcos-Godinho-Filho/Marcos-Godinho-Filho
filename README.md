@@ -9,6 +9,8 @@ Marcos-Godinho-Filho/Marcos-Godinho-Filho is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 
+### Contact me
+
 <img src="https://user-images.githubusercontent.com/113925560/192182516-3ef83a7a-f11c-4cb6-8f47-aab224549002.png" align=
 "right" alt="Marcos-AndroidStudio" width="170">
 
@@ -20,26 +22,43 @@ You can click the Preview link to take a look at your changes.
 [email]: mailto:mcvsk.filho@gmail.com
 [linkedin]:https://www.linkedin.com/in/marcos-godinho-filho-78b533256/
 
+## Skills
 
-## Languages 👾
+### Languages 👾
 
 <div style="display: inline_block"> 
 
-  <img align="center" alt="Marcos-HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcos-CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcos-Js" width="40" src="https://img.icons8.com/color/240/000000/javascript.png">
-  <img align="center" alt="Marcos-Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Marcos-CSharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="CSharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" width="40" src="https://img.icons8.com/?size=1x&id=l75OEUJkPAk4&format=png">
+  <img align="center" alt="SQL" width="40" src="https://github.com/Marcos-Godinho-Filho/Marcos-Godinho-Filho/assets/113925560/ff874bc1-eb6b-4e57-88e8-87f1d560fb15">
+  <img align="center" alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" width="40" src="https://img.icons8.com/color/240/000000/javascript.png">
+  <img align="center" alt="Typescript" width="40" src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png">
  
 </div>
 
-## Tools 🔧
+### Tools 🔧
 
 <div style="display: inline_block"> 
-  <img align="center" alt="Marcos-Node" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
+  <img align="center" alt="Node" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
+  <img align="center" alt="React" width="40" src="https://img.icons8.com/?size=512&id=bzf0DqjXFHIW&format=png">
+  <img align="center" alt="Asp.Net" width="40" src="https://github.com/Marcos-Godinho-Filho/Marcos-Godinho-Filho/assets/113925560/c6b17e1f-e6ca-499f-a070-5451ead4af9b">
+  <img align="center" alt="Mongodb" width="40" src="https://img.icons8.com/?size=1x&id=nn5BRPhPpKAT&format=png">
 </div>
 
-##
+### IDEs 🚀
+
+<div style="display: inline_block">
+ <img align="center" alt="Visual Studio" width="40" src="https://img.icons8.com/?size=1x&id=y7WGoWNuIWac&format=png">
+ <img align="center" alt="Visual Studio Code" width="40" src="https://img.icons8.com/?size=1x&id=9OGIyU8hrxW5&format=png">
+ <img align="center" alt="IntelliJ" width="40" src="https://img.icons8.com/?size=1x&id=61466&format=png">
+ <img align="center" alt="PyCharm" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pycharm-icon.png">
+ <img align="center" alt="MSSMS" width="35" src="https://img.icons8.com/?size=1x&id=laYYF3dV0Iew&format=png" >
+<div/>
+  
+#
 
 | [📈 Github Profile Stats](https://github.com/Marcos-Godinho-Filho/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/Marcos-Godinho-Filho/github-readme-stats#top-languages-card) |
 | :---: | :---: |
