@@ -31,11 +31,11 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="CSharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" width="40" src="https://img.icons8.com/?size=1x&id=l75OEUJkPAk4&format=png">
-  <img align="center" alt="SQL" width="40" src="https://github.com/Marcos-Godinho-Filho/Marcos-Godinho-Filho/assets/113925560/ff874bc1-eb6b-4e57-88e8-87f1d560fb15">
   <img align="center" alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" width="40" src="https://img.icons8.com/color/240/000000/javascript.png">
   <img align="center" alt="Typescript" width="40" src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png">
+  <img align="center" alt="Kotlin" width="40" src="https://img.icons8.com/?size=256&id=ZoxjA0jZDdFZ&format=png">
  
 </div>
 
@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
  <img align="center" alt="Visual Studio Code" width="40" src="https://img.icons8.com/?size=1x&id=9OGIyU8hrxW5&format=png">
  <img align="center" alt="IntelliJ" width="40" src="https://img.icons8.com/?size=1x&id=61466&format=png">
  <img align="center" alt="PyCharm" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pycharm-icon.png">
- <img align="center" alt="MSSMS" width="35" src="https://img.icons8.com/?size=1x&id=laYYF3dV0Iew&format=png" >
+ <img align="center" alt="Android Studio" width="35" src="https://img.icons8.com/?size=256&id=04OFrkjznvcd&format=png" >
 <div/>
   
 #
