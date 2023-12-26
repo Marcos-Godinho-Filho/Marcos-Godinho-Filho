@@ -67,9 +67,3 @@ You can click the Preview link to take a look at your changes.
 | [⚡️ Github Profile Streaks](https://github.com/DenverCoder1/github-readme-streak-stats#github-readme-streak-stats) | [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#github-profile-trophy)
 | :---: | :---: |
 | <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Marcos-Godinho-Filho&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" /> | <img height="180" width="480" src="https://github-profile-trophy.vercel.app/?username=Marcos-Godinho-Filho&theme=radical&row=2&column=5&margin-w=30&margin-h=30&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" /> |
-
-<div align="center">
-  
-![city](https://user-images.githubusercontent.com/113925560/192293401-f674b4d4-b0f6-4561-a18d-1c542cc65506.gif)
-
-</div>
