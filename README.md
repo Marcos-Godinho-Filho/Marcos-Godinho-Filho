@@ -68,12 +68,5 @@ You can click the Preview link to take a look at your changes.
  <img align="center" alt="XCode" width="35" src="https://github.com/Marcos-Godinho-Filho/Marcos-Godinho-Filho/assets/113925560/ad20c893-2295-40e2-b938-6761df857088">
 </div>
   
-#
-
-| [📈 Github Profile Stats](https://github.com/Marcos-Godinho-Filho/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/Marcos-Godinho-Filho/github-readme-stats#top-languages-card) |
-| :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=Marcos-Godinho-Filho&show_icons=true&theme=radical" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Godinho-Filho&theme=radical&layout=compact" />  |
-
-| [⚡️ Github Profile Streaks](https://github.com/DenverCoder1/github-readme-streak-stats#github-readme-streak-stats) | [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#github-profile-trophy)
-| :---: | :---: |
-| <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Marcos-Godinho-Filho&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" /> | <img height="180" width="480" src="https://github-profile-trophy.vercel.app/?username=Marcos-Godinho-Filho&theme=radical&row=2&column=5&margin-w=30&margin-h=30&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" /> |
+### 🏆 Github Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=Marcos-Godinho-Filho&theme=radical&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
