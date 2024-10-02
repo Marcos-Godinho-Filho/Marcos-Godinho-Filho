@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 "right" alt="Marcos-AndroidStudio" width="170">
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Marcos-Godinho-Filho?label=Follow&style=social" height="22" title="Follow me"/>][github]
-[<img alt="Mail to Marcos" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="mcvsk.filho@gmail.com" />][email]
+[<img alt="Mail to Marcos" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="omarcosgodinhofilho@gmail.com" />][email]
 [<img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/marcos-godinho-filho-78b533256/" height="22" title="marcos-godinho-filho" />][linkedin] 
 
 [github]: https://github.com/Marcos-Godinho-Filho
-[email]: mailto:mcvsk.filho@gmail.com
+[email]: mailto:omarcosgodinhofilho@gmail.com
 [linkedin]:https://www.linkedin.com/in/marcos-godinho-filho-78b533256/
 
 ## Skills
