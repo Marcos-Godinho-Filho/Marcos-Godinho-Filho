@@ -67,6 +67,3 @@ You can click the Preview link to take a look at your changes.
  <img align="center" alt="Android Studio" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png">
  <img align="center" alt="XCode" width="35" src="https://github.com/Marcos-Godinho-Filho/Marcos-Godinho-Filho/assets/113925560/ad20c893-2295-40e2-b938-6761df857088">
 </div>
-  
-### 🏆 Github Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=Marcos-Godinho-Filho&theme=radical&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
