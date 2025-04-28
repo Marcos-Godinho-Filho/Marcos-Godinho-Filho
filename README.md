@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in science, culture and games
-- 🌱 I’m currently learning Computing on Technical High School of Campinas - COTUCA
+- 🌱 I’m currently learning Computer Engineering at State University of Campinas - UNICAMP
 
 <!---
 Marcos-Godinho-Filho/Marcos-Godinho-Filho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
