@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Contact me
 
-<img width="170" height="200" align="right" alt="Open Peeps - Avatar" src="https://github.com/user-attachments/assets/72dd8de7-5b6b-4890-9f61-87a5a0019fea" />
+<img width="250" height="250" alt="pfp" align="right" src="https://github.com/user-attachments/assets/9e6822dc-930f-4526-8d03-a615632dc6b3" />
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/Marcos-Godinho-Filho?label=Follow&style=social" height="22" title="Follow me"/>][github]
 [<img alt="Mail to Marcos" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="omarcosgodinhofilho@gmail.com" />][email]
